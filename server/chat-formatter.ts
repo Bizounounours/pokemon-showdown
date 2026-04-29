@@ -381,7 +381,7 @@ class TextFormatter {
 						if (key === 'item') dir += 's';
 						if (key === 'category') dir = 'categories' as 'category';
 
-						uri = `//dex.pokemonshowdown.com/${dir}/${toID(term)}`;
+						uri = `//localhost:8000/dex/${dir}/`;
 						term = display;
 					}
 				}

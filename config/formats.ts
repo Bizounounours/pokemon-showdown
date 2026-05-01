@@ -5692,7 +5692,8 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		// '+Unreleased' force le builder à montrer les Pokémon qui ne sont pas dans le Pokédex normal
 		ruleset: ['Standard NatDex', '+Unreleased'],
 		banlist: ['ND Uber', 'ND AG', 'ND OU', 'ND UUBL', 'ND UU', 'ND RUBL', 'ND RU', 'ND NFE', 'ND LC'],
-	},
+		teambuilderTiers: ["35OU"],
+	} as any,
 	{
 		name: "[Gen 9] Fakemon Cup",
 		mod: '35playermons',

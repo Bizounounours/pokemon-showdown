@@ -1,5 +1,5 @@
 export const Scripts: ModdedBattleScriptsData = {
-	gen: 9,
+	inherit: 'gen9',
 	init() {
 		// On parcourt tous les Pokémon de ton mod
 		for (const i in this.data.Pokedex) {

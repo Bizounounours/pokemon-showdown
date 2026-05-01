@@ -88,7 +88,7 @@ export const Pokedex: { [k: string]: ModdedSpeciesData } = {
 		abilities: { 0: "Protosynthesis", 1: "Anger Point" },
 		weightkg: 50,
 		eggGroups: ["Undiscovered"],
-		spriteid: "tauros-blaze",
+		spriteid: "tauros-paldeablaze",
 	},
 	landoheimer: {
 		num: 359010,

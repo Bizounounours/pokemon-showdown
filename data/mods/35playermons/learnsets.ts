@@ -119,6 +119,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             moonlight: ["9L1"],
             grassyterrain: ["9L1"],
             stunspore: ["9L1"],
+            protect: ["9L1"],
         },
     },
     ironmotherfucker: {
@@ -151,6 +152,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             aquaring: ["9L1"],
             stealthrock: ["9L1"],
             spikes: ["9L1"],
+            protect: ["9L1"],
         },
     },
     mistereruption: {
@@ -180,6 +182,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             endure: ["9L1"],
             curse: ["9L1"],
             calmmind: ["9L1"],
+            protect: ["9L1"],
         },
     },
     ironprophet: {
@@ -206,6 +209,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             spiderweb: ["9L1"],
             mindreader: ["9L1"],
             encore: ["9L1"],
+            protect: ["9L1"],
         },
     },
     threebans: {
@@ -293,6 +297,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             substitute: ["9L1"],
             sleeptalk: ["9L1"],
             honeclaws: ["9L1"],
+            protect: ["9L1"],
         },
     },
     angrythunder: {
@@ -345,6 +350,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             lockon: ["9L1"],
             block: ["9L1"],
             healblock: ["9L1"],
+            protect: ["9L1"],
         },
     },
     landoheimer: {
@@ -928,6 +934,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             trick: ["9L1"],
             rest: ["9L1"],
             sleeptalk: ["9L1"],
+            protect: ["9L1"],
         },
     },
     typhon: {
@@ -1603,6 +1610,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             simplebeam: ["9L1"],
             conversion: ["9L1"],
             takeheart: ["9L1"],
+            protect: ["9L1"],
         },
     },
     stan: {
@@ -1891,6 +1899,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             lockon: ["9L1"],
             flatter: ["9L1"],
             happyhour: ["9L1"],
+            protect: ["9L1"],
         },
     },
     quesadilla: {
@@ -1918,6 +1927,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             irondefense: ["9L1"],
             spikes: ["9L1"],
             haze: ["9L1"],
+            protect: ["9L1"],
         },
     },
     regilover: {
@@ -1935,6 +1945,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             lockon: ["9L1"],
             taunt: ["9L1"],
             nastyplot: ["9L1"],
+            protect: ["9L1"],
         },
     },
     donovan: {
@@ -1967,6 +1978,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             sleeppowder: ["9L1"],
             taunt: ["9L1"],
             thunderwave: ["9L1"],
+            protect: ["9L1"],
         },
     },
     mrtrippy: {
@@ -2008,6 +2020,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             mist: ["9L1"],
             safeguard: ["9L1"],
             toxicspikes: ["9L1"],
+            protect: ["9L1"],
         },
     },
     sammy: {
@@ -2034,6 +2047,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             thunderwave: ["9L1"],
             calmmind: ["9L1"],
             endure: ["9L1"],
+            protect: ["9L1"],
         },
     },
     maszt: {
@@ -2088,6 +2102,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             sunnyday: ["9L1"],
             swagger: ["9L1"],
             acupressure: ["9L1"],
+            protect: ["9L1"],
         },
     },
     friend: {
@@ -2141,6 +2156,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             venomdrench: ["9L1"],
             acupressure: ["9L1"],
             metronome: ["9L1"],
+            protect: ["9L1"],
         },
     },
     bonsoir: {
@@ -2171,6 +2187,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             defensecurl: ["9L1"],
             charge: ["9L1"],
             recycle: ["9L1"],
+            protect: ["9L1"],
         },
     },
     sluice: {
@@ -2206,6 +2223,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             acidarmor: ["9L1"],
             corrosivegas: ["9L1"],
             slackoff: ["9L1"],
+            protect: ["9L1"],
         },
     },
     turtle: {
@@ -2223,6 +2241,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             swordsdance: ["9L1"],
             clangoroussoul: ["9L1"],
             noretreat: ["9L1"],
+            protect: ["9L1"],
         },
     },
     lpt: {
@@ -2262,6 +2281,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             revivalblessing: ["9L1"],
             psychup: ["9L1"],
             taunt: ["9L1"],
+            protect: ["9L1"],
         },
     },
     paudhury: {
@@ -2298,6 +2318,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             curse: ["9L1"],
             batonpass: ["9L1"],
             teleport: ["9L1"],
+            protect: ["9L1"],
         },
     },
     zcarlett: {
@@ -2325,6 +2346,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             nastyplot: ["9L1"],
             swordsdance: ["9L1"],
             simplebeam: ["9L1"],
+            protect: ["9L1"],
         },
     },
     tomotaco: {
@@ -2355,6 +2377,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             focusenergy: ["9L1"],
             luckychant: ["9L1"],
             topsyturvy: ["9L1"],
+            protect: ["9L1"],
         },
     },
     msousa: {
@@ -2405,6 +2428,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             willowisp: ["9L1"],
             growl: ["9L1"],
             stringshot: ["9L1"],
+            protect: ["9L1"],
         },
     },
     belluno: {
@@ -2448,6 +2472,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             safeguard: ["9L1"],
             taunt: ["9L1"],
             sharpen: ["9L1"],
+            protect: ["9L1"],
         },
     },
     sxitty: {
@@ -2481,6 +2506,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             healbell: ["9L1"],
             skillswap: ["9L1"],
             switcheroo: ["9L1"],
+            protect: ["9L1"],
         },
     },
     presi: {
@@ -2528,6 +2554,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             poisongas: ["9L1"],
             sleeppowder: ["9L1"],
             mindreader: ["9L1"],
+            protect: ["9L1"],
         },
     },
     gc: {
@@ -2586,6 +2613,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             conversion: ["9L1"],
             conversion2: ["9L1"],
             happyhour: ["9L1"],
+            protect: ["9L1"],
         },
     },
     kiera: {
@@ -2623,6 +2651,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             wonderroom: ["9L1"],
             moonlight: ["9L1"],
             snatch: ["9L1"],
+            protect: ["9L1"],
         },
     },
     jt: {
@@ -2660,6 +2689,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
             wonderroom: ["9L1"],
             moonlight: ["9L1"],
             snatch: ["9L1"],
+            protect: ["9L1"],
         },
     },
 };

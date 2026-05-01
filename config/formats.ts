@@ -5690,19 +5690,11 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		section: "35Pokes",
 		mod: '35playermons',
 		// '+Unreleased' force le builder à montrer les Pokémon qui ne sont pas dans le Pokédex normal
-		ruleset: ['Standard', '+Unreleased'],
-	},
-	{
-		name: "[Gen 9] Fakemon Cup",
-		mod: '35playermons',
-		ruleset: ['Standard'], // On garde Standard pour la stabilité
-		unbanlist: ['All Pokemon'], // Cette ligne est cruciale pour le Teambuilder
-		onValidateSet(set) {
-			const species = this.dex.species.get(set.species);
-			// On bloque tout ce qui n'est pas dans ton mod (num < 350000)
-			if (species.num < 350000) {
-				return [`${species.name} est interdit dans ce format.`];
-			}
-		},
-	},
+		ruleset: ['Standard NatDex', '+Unreleased'],
+		banlist: [
+			'ND Uber', 'ND AG', 'ND OU', 'ND UUBL', 'ND UU', 'ND RUBL', 'ND RU', 'ND NFE', 'ND LC',
+			'shifty', 'jt', 'kiera',
+		],
+		teambuilderTiers: ["35OU"],
+	} as any,
 ];

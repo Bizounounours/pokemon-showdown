@@ -5690,11 +5690,20 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		section: "35Pokes",
 		mod: '35playermons',
 		// '+Unreleased' force le builder à montrer les Pokémon qui ne sont pas dans le Pokédex normal
-		ruleset: ['Standard NatDex', '+Unreleased'],
+		ruleset: [
+			'Standard', 'Team Preview', '-All Pokemons',
+			'+psychic tongues', '+iron sniper', '+grass warrior', '+iron motherfucker', '+mister eruption',
+			'+iron prophet', '+three bans', '+thundergames', '+angry thunder', '+landoheimer', '+eamplsl',
+			'+carnivore', '+shoota', '+xungo', '+chemfruit', '+nutshell', '+typhon', '+lily', '+hogwobblin',
+			'+mcbruh', '+alice', '+shifty', '+riki', '+copper', '+jay', '+kizaco', '+rules', '+keboblepopper',
+			'+chickenburger', '+washedmaster', '+apu', '+stan', '+beesus', '+cruize', '+bizou', '+portobello',
+			'+lucy', '+cringecat', '+trippy', '+quesadilla', '+regilover', '+donovan', '+mrtrippy', '+sammy',
+			'+maszt', '+friend', '+bonsoir', '+sluice', '+turtle', '+lpt', '+paudhury', '+zcarlett', '+tomotaco',
+			'+msousa', '+belluno', '+sxitty', '+presi', '+gc', '+kiera', '+jt',
+		],
 		banlist: [
-			'ND Uber', 'ND AG', 'ND OU', 'ND UUBL', 'ND UU', 'ND RUBL', 'ND RU', 'ND NFE', 'ND LC',
 			'shifty', 'jt', 'kiera',
 		],
-		teambuilderTiers: ["35OU"],
-	} as any,
+		// teambuilderTiers: ["35OU"],
+	},
 ];

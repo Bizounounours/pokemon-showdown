@@ -1,9 +1,16 @@
 export const Scripts: ModdedBattleScriptsData = {
 	gen: 9,
 	init() {
-		// Cette fonction force le moteur à lire le Pokédex du mod au démarrage
+		// On parcourt tous les Pokémon de ton mod
 		for (const i in this.data.Pokedex) {
-			this.data.FormatsData[i] = { tier: "OU" };
+			const pokemon = this.data.Pokedex[i];
+			// Si le Pokémon a un spriteid différent de son propre ID
+			if (pokemon.spriteid && pokemon.spriteid !== i) {
+				// On force le client à utiliser ce spriteid pour l'affichage
+				this.modData('Pokedex', i).spriteid = pokemon.spriteid;
+				// Optionnel : On peut aussi forcer baseSpecies si besoin
+				// this.modData('Pokedex', i).baseSpecies = pokemon.spriteid;
+			}
 		}
 	},
 };

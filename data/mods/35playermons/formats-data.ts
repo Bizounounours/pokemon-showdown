@@ -1,242 +1,242 @@
 export const FormatsData: { [k: string]: any } = {
 	psychictongues: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	ironsniper: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	grasswarrior: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	ironmotherfucker: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	mistereruption: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	ironprophet: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	threebans: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	thundergames: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	angrythunder: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	landoheimer: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	eamplsl: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	carnivore: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	shoota: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	xungo: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	chemfruit: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	nutshell: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	typhon: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	lily: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	hogwobblin: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	mcbruh: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	alice: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	shifty: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	riki: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	copper: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	jay: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	kizaco: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	rules: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	keboblepopper: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	chickenburger: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	washedmaster: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	apu: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	stan: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	beesus: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	cruize: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	bizou: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	portobello: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	lucy: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	cringecat: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	trippy: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	quesadilla: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	regilover: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	donovan: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	mrtrippy: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	sammy: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	maszt: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	friend: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	bonsoir: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	sluice: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	turtle: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	lpt: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	paudhury: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	zcarlett: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	tomotaco: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	msousa: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	belluno: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	sxitty: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	presi: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	gc: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	kiera: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 	jt: {
-		tier: "OU",
+		tier: "35OU",
 		isNonstandard: null,
 	},
 };

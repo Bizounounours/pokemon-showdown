@@ -5704,7 +5704,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: [
 			'shifty', 'jt', 'kiera',
 		],
-		unbanlist: [],
 		// teambuilderTiers: ["35OU"],
 	},
 ];

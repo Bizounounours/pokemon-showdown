@@ -6342,7 +6342,7 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "35OU" as any,
 		isNonstandard: null,
 	},
-	copper: {
+	copper35: {
 		tier: "35OU" as any,
 		isNonstandard: null,
 	},

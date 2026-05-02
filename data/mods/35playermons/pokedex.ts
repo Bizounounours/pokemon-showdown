@@ -230,7 +230,7 @@ export const Pokedex: { [k: string]: ModdedSpeciesData } = {
 		eggGroups: ["Undiscovered"],
 		spriteid: "lumineon",
 	},
-	copper: {
+	copper35: {
 		num: 359024,
 		name: "Copper",
 		types: ["Ghost", "Grass"],

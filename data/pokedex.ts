@@ -21203,7 +21203,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		spriteid: "lumineon",
 	},
-	copper: {
+	copper35: {
 		num: 359024,
 		name: "Copper",
 		types: ["Ghost", "Grass"],

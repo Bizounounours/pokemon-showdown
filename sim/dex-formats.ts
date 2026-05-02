@@ -8,6 +8,7 @@ const DEFAULT_MOD = 'gen9';
 
 export interface FormatData extends Partial<Format>, EventMethods {
 	name: string;
+	teambuilderTiers?: string[];
 }
 
 export type FormatList = (FormatData | { section: string, column?: number })[];

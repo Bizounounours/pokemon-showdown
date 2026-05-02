@@ -232,7 +232,7 @@ export const Pokedex: { [k: string]: ModdedSpeciesData } = {
 	},
 	copper35: {
 		num: 359024,
-		name: "Copper",
+		name: "Copper35",
 		types: ["Ghost", "Grass"],
 		baseStats: { hp: 95, atk: 50, def: 115, spa: 130, spd: 80, spe: 60 },
 		abilities: { 0: "Analytic", 1: "Swarm" },

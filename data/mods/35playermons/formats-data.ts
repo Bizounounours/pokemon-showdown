@@ -91,7 +91,7 @@ export const FormatsData: { [k: string]: any } = {
 		tier: "35OU" as any,
 		isNonstandard: null,
 	},
-	copper: {
+	copper35: {
 		tier: "35OU" as any,
 		isNonstandard: null,
 	},

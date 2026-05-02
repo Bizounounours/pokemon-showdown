@@ -5695,6 +5695,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 			'Uber', 'AG', 'OU', 'UUBL', 'UU', 'ND RUBL', 'ND RU', 'ND NFE', 'ND LC',
 			'shifty', 'jt', 'kiera',
 		],
-
+		teambuilderTiers: ['35OU'],
 	},
 ];

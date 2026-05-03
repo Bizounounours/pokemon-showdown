@@ -100533,6 +100533,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             moonlight: ["9L1"],
             grassyterrain: ["9L1"],
             stunspore: ["9L1"],
+            protect: ["9L1"],
         },
     },
     ironmotherfucker: {
@@ -100565,6 +100566,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             aquaring: ["9L1"],
             stealthrock: ["9L1"],
             spikes: ["9L1"],
+            protect: ["9L1"],
         },
     },
     mistereruption: {
@@ -100594,6 +100596,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             endure: ["9L1"],
             curse: ["9L1"],
             calmmind: ["9L1"],
+            protect: ["9L1"],
         },
     },
     ironprophet: {
@@ -100620,6 +100623,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             spiderweb: ["9L1"],
             mindreader: ["9L1"],
             encore: ["9L1"],
+            protect: ["9L1"],
         },
     },
     threebans: {
@@ -100707,6 +100711,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             substitute: ["9L1"],
             sleeptalk: ["9L1"],
             honeclaws: ["9L1"],
+            protect: ["9L1"],
         },
     },
     angrythunder: {
@@ -100759,6 +100764,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             lockon: ["9L1"],
             block: ["9L1"],
             healblock: ["9L1"],
+            protect: ["9L1"],
         },
     },
     landoheimer: {
@@ -101168,34 +101174,33 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			genesissupernova: ["9L1"],
 		},
 		eventData: [
-			{generation: 3, level: 30, shiny: 1, moves: ["pound", "transform", "megapunch", "metronome"]},
-			{generation: 3, level: 10, moves: ["pound", "transform"], pokeball: "pokeball"},
-			{generation: 3, level: 30, shiny: 1, moves: ["fakeout"]},
-			{generation: 3, level: 10, moves: ["fakeout"], pokeball: "pokeball"},
-			{generation: 3, level: 30, shiny: 1, moves: ["feintattack"]},
-			{generation: 3, level: 10, moves: ["feintattack"], pokeball: "pokeball"},
-			{generation: 3, level: 30, shiny: 1, moves: ["hypnosis"]},
-			{generation: 3, level: 10, moves: ["hypnosis"], pokeball: "pokeball"},
-			{generation: 3, level: 30, shiny: 1, moves: ["nightshade"]},
-			{generation: 3, level: 10, moves: ["nightshade"], pokeball: "pokeball"},
-			{generation: 3, level: 30, shiny: 1, moves: ["roleplay"]},
-			{generation: 3, level: 10, moves: ["roleplay"], pokeball: "pokeball"},
-			{generation: 3, level: 30, shiny: 1, moves: ["zapcannon"]},
-			{generation: 3, level: 10, moves: ["zapcannon"], pokeball: "pokeball"},
-			{generation: 4, level: 50, moves: ["ancientpower", "metronome", "teleport", "aurasphere"], pokeball: "cherishball"},
-			{generation: 4, level: 50, moves: ["barrier", "metronome", "teleport", "aurasphere"], pokeball: "cherishball"},
-			{generation: 4, level: 50, moves: ["megapunch", "metronome", "teleport", "aurasphere"], pokeball: "cherishball"},
-			{generation: 4, level: 50, moves: ["amnesia", "metronome", "teleport", "aurasphere"], pokeball: "cherishball"},
-			{generation: 4, level: 50, moves: ["transform", "metronome", "teleport", "aurasphere"], pokeball: "cherishball"},
-			{generation: 4, level: 50, moves: ["psychic", "metronome", "teleport", "aurasphere"], pokeball: "cherishball"},
-			{generation: 4, level: 50, moves: ["synthesis", "return", "hypnosis", "teleport"], pokeball: "cherishball"},
-			{generation: 4, level: 5, moves: ["pound"], pokeball: "cherishball"},
-			{generation: 6, level: 100, moves: ["pound"], pokeball: "cherishball"},
-			{generation: 7, level: 5, perfectIVs: 5, moves: ["pound"], pokeball: "pokeball"},
-			{generation: 7, level: 50, moves: ["psychic", "barrier", "metronome", "transform"], pokeball: "cherishball"},
-			{generation: 8, level: 1, moves: ["pound"], pokeball: "pokeball"},
-			{generation: 8, level: 1, moves: ['pound', 'reflecttype'], pokeball: "pokeball", source: "gen8bdsp"},
-			{generation: 9, level: 5, moves: ["pollenpuff", "darkpulse", "dragonpulse", "thunderbolt", "dazzlinggleam", "aurasphere", "flamethrower", "airslash", "shadowball", "energyball", "earthpower", "icebeam", "hypervoice", "sludgebomb", "psyshock", "powergem", "flashcannon", "surf", "swift", "lightscreen", "lifedew"], pokeball: "pokeball"},
+			{ generation: 3, level: 30, shiny: 1, moves: ["pound", "transform", "megapunch", "metronome"] },
+			{ generation: 3, level: 10, moves: ["pound", "transform"], pokeball: "pokeball" },
+			{ generation: 3, level: 30, shiny: 1, moves: ["fakeout"] },
+			{ generation: 3, level: 10, moves: ["fakeout"], pokeball: "pokeball" },
+			{ generation: 3, level: 30, shiny: 1, moves: ["feintattack"] },
+			{ generation: 3, level: 10, moves: ["feintattack"], pokeball: "pokeball" },
+			{ generation: 3, level: 30, shiny: 1, moves: ["hypnosis"] },
+			{ generation: 3, level: 10, moves: ["hypnosis"], pokeball: "pokeball" },
+			{ generation: 3, level: 30, shiny: 1, moves: ["nightshade"] },
+			{ generation: 3, level: 10, moves: ["nightshade"], pokeball: "pokeball" },
+			{ generation: 3, level: 30, shiny: 1, moves: ["roleplay"] },
+			{ generation: 3, level: 10, moves: ["roleplay"], pokeball: "pokeball" },
+			{ generation: 3, level: 30, shiny: 1, moves: ["zapcannon"] },
+			{ generation: 3, level: 10, moves: ["zapcannon"], pokeball: "pokeball" },
+			{ generation: 4, level: 50, moves: ["ancientpower", "metronome", "teleport", "aurasphere"], pokeball: "cherishball" },
+			{ generation: 4, level: 50, moves: ["barrier", "metronome", "teleport", "aurasphere"], pokeball: "cherishball" },
+			{ generation: 4, level: 50, moves: ["megapunch", "metronome", "teleport", "aurasphere"], pokeball: "cherishball" },
+			{ generation: 4, level: 50, moves: ["amnesia", "metronome", "teleport", "aurasphere"], pokeball: "cherishball" },
+			{ generation: 4, level: 50, moves: ["transform", "metronome", "teleport", "aurasphere"], pokeball: "cherishball" },
+			{ generation: 4, level: 50, moves: ["psychic", "metronome", "teleport", "aurasphere"], pokeball: "cherishball" },
+			{ generation: 4, level: 50, moves: ["synthesis", "return", "hypnosis", "teleport"], pokeball: "cherishball" },
+			{ generation: 4, level: 5, moves: ["pound"], pokeball: "cherishball" },
+			{ generation: 6, level: 100, moves: ["pound"], pokeball: "cherishball" },
+			{ generation: 7, level: 5, perfectIVs: 5, moves: ["pound"], pokeball: "pokeball" },
+			{ generation: 7, level: 50, moves: ["psychic", "barrier", "metronome", "transform"], pokeball: "cherishball" },
+			{ generation: 8, level: 1, moves: ["pound"], pokeball: "pokeball" },
+			{ generation: 8, level: 1, moves: ['pound', 'reflecttype'], pokeball: "pokeball", source: "gen8bdsp" },
 		],
 		eventOnly: true,
     },
@@ -101342,6 +101347,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             trick: ["9L1"],
             rest: ["9L1"],
             sleeptalk: ["9L1"],
+            protect: ["9L1"],
         },
     },
     typhon: {
@@ -102017,6 +102023,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             simplebeam: ["9L1"],
             conversion: ["9L1"],
             takeheart: ["9L1"],
+            protect: ["9L1"],
         },
     },
     stan: {
@@ -102305,6 +102312,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             lockon: ["9L1"],
             flatter: ["9L1"],
             happyhour: ["9L1"],
+            protect: ["9L1"],
         },
     },
     quesadilla: {
@@ -102332,6 +102340,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             irondefense: ["9L1"],
             spikes: ["9L1"],
             haze: ["9L1"],
+            protect: ["9L1"],
         },
     },
     regilover: {
@@ -102349,6 +102358,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             lockon: ["9L1"],
             taunt: ["9L1"],
             nastyplot: ["9L1"],
+            protect: ["9L1"],
         },
     },
     donovan: {
@@ -102381,6 +102391,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             sleeppowder: ["9L1"],
             taunt: ["9L1"],
             thunderwave: ["9L1"],
+            protect: ["9L1"],
         },
     },
     mrtrippy: {
@@ -102422,6 +102433,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             mist: ["9L1"],
             safeguard: ["9L1"],
             toxicspikes: ["9L1"],
+            protect: ["9L1"],
         },
     },
     sammy: {
@@ -102448,6 +102460,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             thunderwave: ["9L1"],
             calmmind: ["9L1"],
             endure: ["9L1"],
+            protect: ["9L1"],
         },
     },
     maszt: {
@@ -102502,6 +102515,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             sunnyday: ["9L1"],
             swagger: ["9L1"],
             acupressure: ["9L1"],
+            protect: ["9L1"],
         },
     },
     friend: {
@@ -102555,6 +102569,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             venomdrench: ["9L1"],
             acupressure: ["9L1"],
             metronome: ["9L1"],
+            protect: ["9L1"],
         },
     },
     bonsoir: {
@@ -102585,6 +102600,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             defensecurl: ["9L1"],
             charge: ["9L1"],
             recycle: ["9L1"],
+            protect: ["9L1"],
         },
     },
     sluice: {
@@ -102620,6 +102636,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             acidarmor: ["9L1"],
             corrosivegas: ["9L1"],
             slackoff: ["9L1"],
+            protect: ["9L1"],
         },
     },
     turtle: {
@@ -102637,6 +102654,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             swordsdance: ["9L1"],
             clangoroussoul: ["9L1"],
             noretreat: ["9L1"],
+            protect: ["9L1"],
         },
     },
     lpt: {
@@ -102676,6 +102694,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             revivalblessing: ["9L1"],
             psychup: ["9L1"],
             taunt: ["9L1"],
+            protect: ["9L1"],
         },
     },
     paudhury: {
@@ -102712,6 +102731,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             curse: ["9L1"],
             batonpass: ["9L1"],
             teleport: ["9L1"],
+            protect: ["9L1"],
         },
     },
     zcarlett: {
@@ -102739,6 +102759,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             nastyplot: ["9L1"],
             swordsdance: ["9L1"],
             simplebeam: ["9L1"],
+            protect: ["9L1"],
         },
     },
     tomotaco: {
@@ -102769,6 +102790,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             focusenergy: ["9L1"],
             luckychant: ["9L1"],
             topsyturvy: ["9L1"],
+            protect: ["9L1"],
         },
     },
     msousa: {
@@ -102819,6 +102841,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             willowisp: ["9L1"],
             growl: ["9L1"],
             stringshot: ["9L1"],
+            protect: ["9L1"],
         },
     },
     belluno: {
@@ -102862,6 +102885,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             safeguard: ["9L1"],
             taunt: ["9L1"],
             sharpen: ["9L1"],
+            protect: ["9L1"],
         },
     },
     sxitty: {
@@ -102895,6 +102919,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             healbell: ["9L1"],
             skillswap: ["9L1"],
             switcheroo: ["9L1"],
+            protect: ["9L1"],
         },
     },
     presi: {
@@ -102942,6 +102967,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             poisongas: ["9L1"],
             sleeppowder: ["9L1"],
             mindreader: ["9L1"],
+            protect: ["9L1"],
         },
     },
     gc: {
@@ -103000,6 +103026,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             conversion: ["9L1"],
             conversion2: ["9L1"],
             happyhour: ["9L1"],
+            protect: ["9L1"],
         },
     },
     kiera: {
@@ -103037,6 +103064,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             wonderroom: ["9L1"],
             moonlight: ["9L1"],
             snatch: ["9L1"],
+            protect: ["9L1"],
         },
     },
     jt: {
@@ -103074,6 +103102,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
             wonderroom: ["9L1"],
             moonlight: ["9L1"],
             snatch: ["9L1"],
+            protect: ["9L1"],
         },
     },
 };
